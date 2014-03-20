@@ -131,7 +131,9 @@ HTMLActuator.prototype.message = function (won) {
   this.messageContainer.classList.add(type);
   this.messageContainer.getElementsByTagName("p")[0].textContent = message;
   
+  // Get rid of this line if you hate the rainbow
   document.body.className += "backgroundbeauty";
+  
   
 };
 
