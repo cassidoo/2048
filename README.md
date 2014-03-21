@@ -3,6 +3,12 @@ A small clone of [2048](http://gabrielecirulli.github.io/2048/)
 
 [PLAY IT HERE AND WITNESS THE FUN](http://gabrielecirulli.github.io/2048/)
 
+##Screenshot
+
+Yeah, I won.  Nbd.
+
+![Alt](https://raw.githubusercontent.com/cassidoo/ASL2048/master/win.png)
+
 ##Make your own!
 Want to make your own with your friends' faces?
 
